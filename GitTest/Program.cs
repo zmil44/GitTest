@@ -7,6 +7,7 @@ namespace GitTest
         static void Main(string[] args)
         {
             Console.WriteLine("This is to test git on visual studio");
+            Console.Read();
         }
     }
 }
